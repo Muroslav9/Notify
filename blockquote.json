@@ -1,0 +1,8 @@
+window.blockQuote = [{
+    name: "John Smith",
+    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris interdum velit vitae nulla molestie eu<br/> commodo nulla dapib us. Donec id sollicitudin urna. Integer at dui ac leo fermentum varius eleifend ut."
+},
+{
+    name: "Jane Hunt",
+    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris interdum velit vitae nulla molestie eu<br/> commodo nulla dapib us. Donec id sollicitudin urna. Integer at dui ac leo fermentum varius eleifend ut."
+}];

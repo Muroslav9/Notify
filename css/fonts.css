@@ -1,0 +1,23 @@
+/* font-family: "Pacifico"; */
+@font-face {
+	font-family: "Pacifico";
+	src: 	url("../fonts/Pacifico/Pacifico.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Helvetica"; */
+@font-face {
+	font-family: "Helvetica";
+	src: 	url("../fonts/Helvetica/Helvetica.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Raleway"; */
+@font-face {
+	font-family: "Raleway";
+	src: 	url("../fonts/Raleway/Raleway.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
